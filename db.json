@@ -39,6 +39,12 @@
             "lastName": "Tester",
             "login": "Tester",
             "logoId": "68156a73-6888-4589-b296-9a40a57987ea"
-        }
+        },
+       "0075b7c4-7578-4209-820b-b393f77ee269": {
+           "firstName": "Testy"
+            "lastName": "Tester"
+            "login": "Tester2"
+            "logoId": "68156a73-6888-4589-b296-9a40a57987ea"
+       }
     }
 }
