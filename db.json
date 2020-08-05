@@ -24,6 +24,19 @@
                 "invitedMemberId": "9c6a2e4b-1546-4059-adb9-93ab09de41b3",
                 "invitedTime": null,
                 "hasErrandOperation": false
+            },
+            ,
+             {
+                "entryId": "123123-3016-47bb-8764-333444c37795",
+                "status": "ACCEPTED",
+                "type": "SMS",
+                "phone": "505288528",
+                "email": null,
+                "message": null,
+                "createTime": "2020-07-24T00:14:12+02:00",
+                "invitedMemberId": "0075b7c4-7578-4209-820b-b393f77ee269",
+                "invitedTime": null,
+                "hasErrandOperation": false
             }
         ]
     },
